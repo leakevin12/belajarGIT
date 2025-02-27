@@ -9,7 +9,7 @@
 
 # Daftar perintah GIT
 1. Tugas-git
-Clone repositori ke lokal
+   Clone repositori ke lokal
 git clone https://github.com/leakevin12/belajarGIT.git
 cd belajarGIT
 
