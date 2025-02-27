@@ -9,135 +9,196 @@
 
 # Daftar perintah GIT
 # 1. Tugas-git
-Clone repositori ke lokal
-git clone https://github.com/leakevin12/belajarGIT.git
-cd belajarGIT
+1. Clone repositori ke lokal
 
-Membuat branch 
-git checkout -b Tugas-git
+	git clone https://github.com/leakevin12/belajarGIT.git
 
-Menambahkan file kosong dan mengisi 
-touch Tugas-Git.txt
-echo "Tugas Pertama Git" > Tugas-Git.txt
+	cd belajarGIT
 
-Menyimpan Perubahan
-git add Tugas-Git.txt
-git commit -m "File Tugas-Git.txt"
+2. Membuat branch
+   
+	git checkout -b Tugas-git
 
-Merge branch ke branch main
-git checkout main
-git merge Tugas-git
+3. Menambahkan file kosong dan mengisi
+   
+	touch Tugas-Git.txt
 
-Sinkronisasi ke github
-git push origin main
+	echo "Tugas Pertama Git" > Tugas-Git.txt
+
+4. Menyimpan Perubahan
+   
+	git add Tugas-Git.txt
+
+	git commit -m "File Tugas-Git.txt"
+
+5. Merge branch ke branch main
+
+	git checkout main
+
+	git merge Tugas-git
+
+7. Sinkronisasi ke github
+
+	git push origin main
 
 # 2. Tugas-html
-Membuat branch 
-git checkout -b Tugas-html
+1. Membuat branch
+   
+	git checkout -b Tugas-html
 
-Menambahkan file kosong dan mengisi 
-touch Tugas-Html.txt
-echo "Tugas kedua Html" > Tugas-Html.txt
+2. Menambahkan file kosong dan mengisi
+   
+	touch Tugas-Html.txt
 
-Menyimpan Perubahan
-git add Tugas-Html.txt
-git commit -m "File Tugas-Html.txt"
+	echo "Tugas kedua Html" > Tugas-Html.txt
 
-Merge branch ke branch main
-git checkout main
-git merge Tugas-html
+3. Menyimpan Perubahan
 
-Sinkronisasi ke github
-git push origin main
+	git add Tugas-Html.txt
+
+	git commit -m "File Tugas-Html.txt"
+
+4. Merge branch ke branch main
+
+	git checkout main
+	
+	git merge Tugas-html
+
+5. Sinkronisasi ke github
+
+	git push origin main
 
 # 3. Tugas-css
-Membuat branch 
-git checkout -b Tugas-css
+1. Membuat branch 
 
-Menambahkan file kosong dan mengisi 
-touch Tugas-Css.txt
-echo "Tugas ketiga CSS" > Tugas-Css.txt
+	git checkout -b Tugas-css
 
-Menyimpan Perubahan
-git add Tugas-Css.txt
-git commit -m "File Tugas-Css.txt"
+2. Menambahkan file kosong dan mengisi
 
-Merge branch ke branch main
-git checkout main
-git merge Tugas-css
+	touch Tugas-Css.txt
 
-Sinkronisasi ke github
-git push origin main
+	echo "Tugas ketiga CSS" > Tugas-Css.txt
+	
+3. Menyimpan Perubahan
+
+	git add Tugas-Css.txt
+
+	git commit -m "File Tugas-Css.txt"
+
+4. Merge branch ke branch main
+
+	git checkout main
+
+	git merge Tugas-css
+
+5. Sinkronisasi ke github
+
+	git push origin main
 
 # 4. Tugas-js
-Membuat branch 
-git checkout -b Tugas-js
+1. Membuat branch 
 
-Menambahkan file kosong dan mengisi 
-touch Tugas-Js.txt
-echo "Tugas keempat js" > Tugas-Js.txt
+	git checkout -b Tugas-js
 
-Menyimpan Perubahan
-git add Tugas-Js.txt
-git commit -m "File Tugas-Js.txt"
+2. Menambahkan file kosong dan mengisi 
 
-Merge branch ke branch main
-git checkout main
-git merge Tugas-js
+	touch Tugas-Js.txt
 
-Sinkronisasi ke github
-git push origin main
+	echo "Tugas keempat js" > Tugas-Js.txt
+
+3. Menyimpan Perubahan
+
+	git add Tugas-Js.txt
+
+	git commit -m "File Tugas-Js.txt"
+
+4. Merge branch ke branch main
+
+	git checkout main
+
+	git merge Tugas-js
+
+5. Sinkronisasi ke github
+
+	git push origin main
 
 # 5. Tugas-midProject
-Membuat branch 
-git checkout -b Tugas-midProject
+1. Membuat branch 
 
-Menambahkan file kosong dan mengisi 
-touch Tugas-MidProject.txt
-echo "Tugas kelima Html" > Tugas-MidProject.txt
+	git checkout -b Tugas-midProject
 
-Menyimpan Perubahan
-git add Tugas-MidProject.txt
-git commit -m "File Tugas-MidProject.txt"
+2. Menambahkan file kosong dan mengisi 
 
-Merge branch ke branch main
-git checkout main
-git merge Tugas-midProject
+	touch Tugas-MidProject.txt
 
-Sinkronisasi ke github
-git push origin main
+	echo "Tugas kelima Html" > Tugas-MidProject.txt
+	
+3. Menyimpan Perubahan
+
+	git add Tugas-MidProject.txt
+
+	git commit -m "File Tugas-MidProject.txt"
+
+4. Merge branch ke branch main
+
+	git checkout main
+
+	git merge Tugas-midProject
+
+5. Sinkronisasi ke github
+	
+	git push origin main
 
 # 6. Tugas-php
-Membuat branch 
-git checkout -b Tugas-php
+1. Membuat branch
 
-Menambahkan file kosong dan mengisi 
-touch Tugas-Php.txt
-echo "Tugas keenam Html" > Tugas-Php.txt
+	git checkout -b Tugas-php
 
-Menyimpan Perubahan
-git add Tugas-Php.txt
-git commit -m "File Tugas-Php.txt"
+2. Menambahkan file kosong dan mengisi 
 
-Merge branch ke branch main
-git checkout main
-git merge Tugas-php
+	touch Tugas-Php.txt
 
-Sinkronisasi ke github
-git push origin main
+	echo "Tugas keenam Html" > Tugas-Php.txt
+
+3. Menyimpan Perubahan
+
+	git add Tugas-Php.txt
+	
+	git commit -m "File Tugas-Php.txt"
+
+4. Merge branch ke branch main
+
+	git checkout main
+
+	git merge Tugas-php
+
+5. Sinkronisasi ke github
+
+	git push origin main
 
 # 7. Tugas-finalProject
-Membuat branch 
-git checkout -b Tugas-finalProject
+1. Membuat branch 
 
-Menambahkan file kosong dan mengisi 
-touch Tugas-FinalProject.txt
-echo "Tugas terakhir Final Project" > Tugas-FinalProject.txt
+	git checkout -b Tugas-finalProject
 
-Menyimpan Perubahan
-git add Tugas-FinalProject.txt
-git commit -m "File Tugas-FinalProject.txt"
+2. Menambahkan file kosong dan mengisi
 
-Merge branch ke branch main
-git checkout main
-git merge Tugas-FinalProject
+	touch Tugas-FinalProject.txt
+
+	echo "Tugas terakhir Final Project" > Tugas-FinalProject.txt
+
+3. Menyimpan Perubahan
+
+	git add Tugas-FinalProject.txt
+	
+	git commit -m "File Tugas-FinalProject.txt"
+
+4. Merge branch ke branch main
+
+	git checkout main
+
+	git merge Tugas-FinalProject
+
+5. Sinkronisasi ke github
+
+	git push origin main
