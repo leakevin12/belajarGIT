@@ -8,8 +8,8 @@
 7. Tugas-finalProject
 
 # Daftar perintah GIT
-1. Tugas-git
-   Clone repositori ke lokal
+# 1. Tugas-git
+Clone repositori ke lokal
 git clone https://github.com/leakevin12/belajarGIT.git
 cd belajarGIT
 
@@ -31,7 +31,7 @@ git merge Tugas-git
 Sinkronisasi ke github
 git push origin main
 
-2. Tugas-html
+# 2. Tugas-html
 Membuat branch 
 git checkout -b Tugas-html
 
@@ -50,7 +50,7 @@ git merge Tugas-html
 Sinkronisasi ke github
 git push origin main
 
-3. Tugas-css
+# 3. Tugas-css
 Membuat branch 
 git checkout -b Tugas-css
 
@@ -69,7 +69,7 @@ git merge Tugas-css
 Sinkronisasi ke github
 git push origin main
 
-4. Tugas-js
+# 4. Tugas-js
 Membuat branch 
 git checkout -b Tugas-js
 
@@ -88,7 +88,7 @@ git merge Tugas-js
 Sinkronisasi ke github
 git push origin main
 
-5. Tugas-midProject
+# 5. Tugas-midProject
 Membuat branch 
 git checkout -b Tugas-midProject
 
@@ -107,7 +107,7 @@ git merge Tugas-midProject
 Sinkronisasi ke github
 git push origin main
 
-6. Tugas-php
+# 6. Tugas-php
 Membuat branch 
 git checkout -b Tugas-php
 
@@ -126,7 +126,7 @@ git merge Tugas-php
 Sinkronisasi ke github
 git push origin main
 
-6. Tugas-finalProject
+# 7. Tugas-finalProject
 Membuat branch 
 git checkout -b Tugas-finalProject
 
